@@ -7,6 +7,6 @@ This project helps train a classifier to recognize handwritten character images 
 Dependencies
 ============
 
-TensorFlow (https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#pip-installation)
+TensorFlow 
 
 
